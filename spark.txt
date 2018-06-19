@@ -13,3 +13,7 @@ anis
 anis
 anis
 anis
+
+cross join (*)
+
+egypt
