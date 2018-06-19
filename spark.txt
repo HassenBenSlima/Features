@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 salah 
 costa rica
@@ -7,11 +8,14 @@ ronaldo
 messi
 med salah
 coup du monde
+=======
+>>>>>>> change
 abc
 ok
 ok
 kkqsd
 sdsqdsqf
+<<<<<<< HEAD
 fsqf
 
 
@@ -19,11 +23,12 @@ fsqf
 hassen
 anis
 spark sfax
+=======
+>>>>>>> change
 
-java / spring boot
-int anis = 1;
-int hassen= 1;
+fsqf
 
+<<<<<<< HEAD
 learning  git...
 <<<<<<< HEAD
 abs
@@ -38,3 +43,5 @@ test
 test
 test
 >>>>>>>  test
+=======
+>>>>>>> change
