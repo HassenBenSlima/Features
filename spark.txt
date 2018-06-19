@@ -1,47 +1,22 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-
 salah 
-costa rica
+med
 ali
 ronaldo 
 messi
 med salah
 coup du monde
-=======
->>>>>>> change
 abc
 ok
 ok
 kkqsd
 sdsqdsqf
-<<<<<<< HEAD
-fsqf
-
-
-=======
 hassen
 anis
 spark sfax
-=======
->>>>>>> change
-
-fsqf
-
-<<<<<<< HEAD
 learning  git...
-<<<<<<< HEAD
 abs
-<<<<<<< HEAD
->>>>>>> addnewline
->>>>>>> addnewline
-=======
-
->>>>>>> ok
-=======
 test
 test
 test
->>>>>>>  test
-=======
->>>>>>> change
+test
+change
